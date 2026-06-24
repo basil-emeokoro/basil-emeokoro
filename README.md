@@ -109,7 +109,7 @@ Presented at the **2025 e-Assessment Association International Conference**
 **Featured In**
 
 - Conference summary / LinkedIn feature: [e-Assessment Association post](https://www.linkedin.com/posts/e-assessment-association_eassessment2025-digitalassessment-edtech-activity-7341412262147940356-6SlG)
-- Official conference summary link: _Add official Slide 5 URL when publicly available._
+- Official conference summary: Slide 5-
 
 </details>
 
