@@ -70,11 +70,11 @@ I am especially motivated by problems where AI must be technically strong, socia
 
 | Programme | Institution / Area |
 | --- | --- |
-| MicroMasters in Machine Learning and Research Methods | ADA Global Academy |
-| Master of Information Technology | Miva Open University |
-| MSc Information Technology | Information Technology |
-| PGDE | Mathematics |
-| BSc Computer Science | Computer Science |
+| MicroMasters in Machine Learning and Research Methods | ADA Global Academy | Data Science |
+| Master's in information technology | Miva Open University Abuja, Nigeria | AI Specialization |  
+| MSc Information Technology | National Open University Of Nigeria | Information Technology |
+| PGDE | Usmanu Donfodiyo University Sokoto Nigeria | Mathematics | 
+| BSc Computer Science | Ebonyi State University Abakaliki Nigeria | Computer Science |
 
 ---
 
@@ -85,13 +85,11 @@ I am especially motivated by problems where AI must be technically strong, socia
 - Microsoft Certified Systems Administrator (MCSA)
 - ETS Global Academy - Modern Test Development and Psychometrics
 - ADA Global Academy - Professional Diploma in Applied Data Science
-- ADA Global Academy - MicroMasters in Machine Learning and Research Methods (In Progress)
+- ADA Global Academy - MicroMasters in Machine Learning and Research Methods 
 
 ---
 
-## Publications & Conference Presentations
-
-<details open>
+## Conference Presentations
 <summary><strong>Examination Integrity and Privacy Compliance</strong></summary>
 
 Presented at the **2025 e-Assessment Association International Conference**
@@ -109,7 +107,7 @@ Presented at the **2025 e-Assessment Association International Conference**
 **Featured In**
 
 - Conference summary / LinkedIn feature: [e-Assessment Association post](https://www.linkedin.com/posts/e-assessment-association_eassessment2025-digitalassessment-edtech-activity-7341412262147940356-6SlG)
-- Official conference summary: Slide 5-
+- Official conference summary:
 
 </details>
 
