@@ -71,7 +71,7 @@ I am especially motivated by problems where AI must be technically strong, socia
 | Programme | Institution / Area |
 | --- | --- |
 | MicroMasters in Machine Learning and Research Methods | ADA Global Academy | Data Science |
-| Master's in information technology | Miva Open University Abuja, Nigeria | AI Specialization |  
+| Master of Information Technology | Miva Open University Abuja, Nigeria | AI Specialization |  
 | MSc Information Technology | National Open University Of Nigeria | Information Technology |
 | PGDE | Usmanu Donfodiyo University Sokoto Nigeria | Mathematics | 
 | BSc Computer Science | Ebonyi State University Abakaliki Nigeria | Computer Science |
